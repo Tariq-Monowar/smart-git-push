@@ -1,0 +1,26 @@
+# Dependencies (if installed inside a package)
+node_modules/
+
+# npm pack output
+*.tgz
+
+# Logs & OS
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+coverage/
+.nyc_output/
+
+# Build output (if a package adds compile step later)
+dist/
+build/
+
+
+
+
+
+ 
+ 
